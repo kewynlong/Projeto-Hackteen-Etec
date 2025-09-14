@@ -10,7 +10,7 @@ ETEC JACINTO FERREIRA DE SÁ - OURINHOS / SP
 -Enzo Antunes Pasqualini 
 -Cauê Rabelo Lima  
 -Antony Gabriel Kawakami da Silva  
--Arthur
+-Arthur Martins Bressanin
 
 ---
 ## Descrição do Projeto
