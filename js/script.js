@@ -1307,18 +1307,18 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="space-y-8">
                         <div class="card p-8 shadow-lg">
                             <div class="text-center pb-6">
-                                <h2 class="text-4xl font-bold mb-4">Welcome to Navio</h2>
-                                <p class="text-lg text-gray-600">Find your mentor and start learning</p>
+                                <h2 class="text-4xl font-bold mb-4">Bem vindo ao Navio</h2>
+                                <p class="text-lg text-gray-600">Encontre seu mentor e começe seu aprendizado</p>
                             </div>
                             <div class="space-y-6">
                                 <div class="relative">
                                     <svg class="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
                                     </svg>
-                                    <input id="mentor-search" placeholder="Search mentors" class="input pl-10 py-3 text-lg">
+                                    <input id="mentor-search" placeholder="Busque por mentores" class="input pl-10 py-3 text-lg">
                                 </div>
                                 <div class="space-y-4">
-                                    <h3 class="text-xl font-semibold">Your progress</h3>
+                                    <h3 class="text-xl font-semibold">Seu Progresso</h3>
                                     <div class="space-y-3">
                                         <div class="flex justify-between items-center">
                                             <span class="text-gray-700">Enhance your skills</span>
