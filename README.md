@@ -14,16 +14,17 @@ ETEC JACINTO FERREIRA DE SÁ - OURINHOS / SP
 
 ---
 ## Descrição do Projeto
-O projeto consiste no desenvolvimento de um **site institucional/pessoal** utilizando **HTML5, CSS3 (TailwindCSS)** e **JavaScript**.  
+O projeto consiste no desenvolvimento de um **site com a proposta de uma startup viavel e inovadora** utilizando **HTML5, CSS3 (TailwindCSS)** e **JavaScript**.  
 O objetivo é criar uma página web com navegação simples e responsiva, que contenha informações básicas, apresentação dos serviços, formulário de contato funcional e integração com redes sociais.  
 
 As tecnologias **CSS** e **JavaScript** foram organizadas em **arquivos separados**, facilitando a manutenção e a clareza do código.  
 ---
 ## Estrutura de Arquivos
-- `index1.html` → Página Inicial (apresentação do site)  
-- `about.html` → Página "Sobre Nós" (informações institucionais ou pessoais)  
+- `index1.html` → Página Inicial (apresentação do site, conceito etc...)  
+- `about.html` → Página "Sobre Nós" (informações institucionais ou pessoais)
 - `services.html` → Página de Serviços/Produtos (apresentação do que é oferecido)  
-- `contact.html` → Página de Contato (formulário para Nome, E-mail e Mensagem + links para redes sociais)  
+- `contact.html` → Página de Contato (formulário para Nome, E-mail e Mensagem + links para redes sociais)
+- `interface.html´ → Uma simulação de como seria a interface da Navio
 - `/css/` → Pasta com os arquivos de estilos (CSS)  
 - `/js/` → Pasta com os scripts de interatividade (JavaScript)   
 ---
@@ -37,3 +38,5 @@ Portanto, não é necessário instalar dependências externas.
    
 2. Acesse a pasta do projeto:
    Projeto-Hackteen-Etec
+
+3. Extraia os arquivos e abra o index.html
